@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abhk.IO", "Abhk.Io\Abhk.IO.csproj", "{AC477CCB-CF88-4FE9-BD76-3F52E658B19D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{CD5D5478-8060-44BC-B173-1A9752D987EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC477CCB-CF88-4FE9-BD76-3F52E658B19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC477CCB-CF88-4FE9-BD76-3F52E658B19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC477CCB-CF88-4FE9-BD76-3F52E658B19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC477CCB-CF88-4FE9-BD76-3F52E658B19D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD5D5478-8060-44BC-B173-1A9752D987EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5D5478-8060-44BC-B173-1A9752D987EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5D5478-8060-44BC-B173-1A9752D987EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5D5478-8060-44BC-B173-1A9752D987EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
